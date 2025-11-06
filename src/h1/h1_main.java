@@ -7,7 +7,8 @@ public class h1_main {
         double guthaben=-100,monEingang=200;
         int rating=-2;
         boolean warnhinweis,negativ;
-        warnhinweis=false,negativ=false;
+        warnhinweis=false;
+        negativ=false;
 
         System.out.println("guthaben: "+guthaben+", monEingang: "+monEingang);
 
