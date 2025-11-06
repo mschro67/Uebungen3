@@ -6,7 +6,8 @@ public class h1_main {
     public static void main(String[] args){
         double guthaben=-100,monEingang=200;
         int rating=-2;
-        boolean warnhinweis=false,negativ=false;
+        boolean warnhinweis,negativ;
+        warnhinweis=false,negativ=false;
 
         System.out.println("guthaben: "+guthaben+", monEingang: "+monEingang);
 
