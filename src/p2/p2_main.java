@@ -22,6 +22,7 @@ public class p2_main{
         if (E4){
             d+=1;
         }
+        
         System.out.println("d: "+d);
     }
 }
