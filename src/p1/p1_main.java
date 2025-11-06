@@ -6,7 +6,7 @@ public class p1_main{
     public static void main(String[] args){
         byte gewuerfelt=1;
         System.out.println("gewürfelt: "+gewuerfelt);
-        switch (gewuerfelt){
+        switch (gewuerfelt){  //switch statt if + else...
             case 1:
                 System.out.println("Gewonnen!");
                 break;
