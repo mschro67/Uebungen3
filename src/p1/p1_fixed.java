@@ -2,7 +2,7 @@
 
 package p1;
 
-public class p1_main{
+public class p1_fixed{
     public static void main(String[] args){
         byte gewuerfelt=1;
         System.out.println("gewürfelt: "+gewuerfelt);
